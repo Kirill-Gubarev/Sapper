@@ -1,0 +1,16 @@
+﻿  Render.cpp
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.h(87,2): warning C4091: static : пропускается слева от "Render", когда ни одна переменная не объявлена
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(51,17): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(60,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(60,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(67,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(67,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(72,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(72,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(75,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(75,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(87,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(87,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(90,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\Sourse\Render\Render.cpp(90,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Sapper.vcxproj -> C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Sapper\x64\Debug\Sapper.exe
